@@ -1,3 +1,3 @@
 # rep
 
-to jeswt plok markdown w tym repezytorium
+to jest plik markdown w tym repezytorium
